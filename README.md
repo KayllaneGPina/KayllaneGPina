@@ -1,7 +1,9 @@
 ## Olá, me chamo Kayllane Pina
 
 - Full-Stack Developer
-- Atualmente estudando Python
+- Tenho 1 ano de experiência com desenvolvimento back-end utilizando Java, Spring, Spring Boot
+- Possuo conhecimentos em HTML, CSS, JavaScript
+- Atualmente estudando NodeJS
 - Email: kayllanegfpina@gmail.com
 - Pronomes: ela/dela
 
