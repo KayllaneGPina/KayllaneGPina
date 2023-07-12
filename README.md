@@ -8,6 +8,8 @@
 <p>Possuo 1 ano de experiência como estagiária de desenvolvimento back-end utilizando as tecnologias Java e SpringBoot e também trabalhei com testes unitários. Também já trabalhei 1 ano como estagiária no INSS com atendimento ao público e desenvolvi habilidades de comunicação, proatividade e trabalho em equipe. Estou a procura de aprender um pouco mais sobre o mundo da segurança da informação e ciências de dados para aprimorar mais meus conhecimentos em tecnologia. Atualmente estou estudando Python para migrar para a tão sonhada área de dados 😁🎲.</p>
 </div>
 
+<br>
+
 <div style="display: inline_block" align="center"><br>
 
 ### 🔗 Tecnologias
@@ -18,7 +20,7 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
-##
+<br>
 
 
 <div align="center"> 
@@ -31,11 +33,11 @@
 </div>
 </div>
 
-##
+<br>
 
 
 <div style="display: inline_block" align="center"><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayllaneGPina&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayllaneGPina&hide_progress=true&theme=dracula"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=KayllaneGPina&show_icons=true&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayllaneGPina&hide_progress=true&theme=dracula"/>
 </div>
 
