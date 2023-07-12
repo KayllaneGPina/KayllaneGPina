@@ -39,7 +39,7 @@
 
 
 <div style="display: inline_block"><br>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KayllaneGPina&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayllaneGPina&hide_progress=true&theme=dracula"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api?username=KayllaneGPina&show_icons=true&theme=radical"/>
+    <img height="145em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayllaneGPina&hide_progress=true&theme=dracula"/>
 </div>
 
