@@ -39,7 +39,7 @@
 
 
 <div style="display: inline_block"><br>
-    <img height="170em" src="https://github-readme-stats-seven-rose-67.vercel.app/api?username=KayllaneGPina&show_icons=true&rank_icon=github&theme=tokyonight"/>
-    <img height="170em" src="https://github-readme-stats-seven-rose-67.vercel.app/api/top-langs/?username=KayllaneGPina&hide_progress=false&theme=tokyonight&layout=donut"/>
+    <img height="180em" src="https://github-readme-stats-seven-rose-67.vercel.app/api?username=KayllaneGPina&show_icons=true&rank_icon=github&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats-seven-rose-67.vercel.app/api/top-langs/?username=KayllaneGPina&hide_progress=false&theme=tokyonight&layout=donut"/>
 </div>
 
