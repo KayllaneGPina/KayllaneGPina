@@ -1,15 +1,18 @@
 <div align="center">
 
-  ## Olá, eu sou a Kayllane! 👋
+  ## Oiii! 👋
 </div>
 
 
 <div>
 
 ### 🚀 Sobre mim
-<p>Possuo 1 ano de experiência como estagiária de desenvolvimento back-end utilizando as tecnologias Java e SpringBoot e também trabalhei com testes unitários. Também já trabalhei 1 ano como estagiária no INSS com atendimento ao público e desenvolvi habilidades de comunicação, proatividade e trabalho em equipe. Estou a procura de aprender um pouco mais sobre o mundo da segurança da informação e ciências de dados para aprimorar mais meus conhecimentos em tecnologia. Atualmente estou estudando Python para migrar para a tão sonhada área de dados 😁🎲.</p>
-</div>
+<p>Sou a Kayllane, apaixonada pelo mundo da tecnologia, por futebol e meus pets. Sou proativa, comunicativa, gosto do trabalho em equipe, pois acredito que a união faz a força.
 
+Minha primeira experiência profissional foi em 2020, quando atuei como estagiária na agência do INSS da minha cidade. Lá, pude desenvolver habilidades de comunicação, proatividade e atendimento ao cliente. Meu segundo emprego também foi um estágio, no qual atuei como desenvolvedora de software na empresa Matera. Lá, aprendi sobre Java, SpringBoot, um pouco de AWS, Kubernetes e testes unitários.
+
+Atualmente estou no 2º semestre de defesa cibernética, e minha vontade de aprender um pouco de tudo é o que me move. Sou uma pessoa bastante flexível, então estou disposta a me aventurar em qualquer área de T.I.</p>
+</div>
 
 
 <div style="display: inline_block"><br>
