@@ -1,9 +1,3 @@
-<div align="center">
-
-  ## Oiii! 👋
-</div>
-
-
 <div>
 
 ### 🚀 Sobre mim
@@ -18,33 +12,36 @@ Atualmente estou no 2º semestre de defesa cibernética, e minha vontade de apre
 <div style="display: inline_block"><br>
 
 ### ⚒️ Tecnologias
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.simpleicons.org/mysql">
-  <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.simpleicons.org/mongodb">
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+
+#### Aprendendo:
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 </div>
 
-<br>
 
 
-<div> 
-
-### 🔗 Links
-<h6>Entre em contato comigo:<h6>
 <div style="display: inline_block">
-    <a href = "mailto:kayllanegfpina@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/kayllane-pina" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+  
+### 🔗 Entre em contato comigo:
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=midnight-purple)](https://www.linkedin.com/in/kayllane-pina/) 
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:kayllanegfpina@gmail.com)
 </div>
 
 <br>
+
 
 
 <div style="display: inline_block"><br>
-    <img height="180em" src="https://github-readme-stats-seven-rose-67.vercel.app/api?username=KayllaneGPina&show_icons=true&rank_icon=github&theme=tokyonight"/>
-    <img height="180em" src="https://github-readme-stats-seven-rose-67.vercel.app/api/top-langs/?username=KayllaneGPina&hide_progress=false&theme=tokyonight&layout=donut"/>
+  
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayllaneGPina&theme=midnight-purple&show_icons=true&rank_icon=github&card_width=550) 
+   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KayllaneGPina&layout=donut&card_width=500&theme=midnight-purple&show_icons=true)
+   
 </div>
 
