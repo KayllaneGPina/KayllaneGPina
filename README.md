@@ -40,8 +40,8 @@ Atualmente estou no 2º semestre de defesa cibernética, e minha vontade de apre
 
 <div style="display: inline_block"><br>
   
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayllaneGPina&theme=midnight-purple&show_icons=true&rank_icon=github&card_width=550) 
-   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KayllaneGPina&layout=pie&card_width=400&theme=midnight-purple&show_icons=true)
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayllaneGPina&theme=midnight-purple&show_icons=true&rank_icon=github) 
+   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KayllaneGPina&layout=pie&theme=midnight-purple&show_icons=true)
    
 </div>
 
