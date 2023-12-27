@@ -18,8 +18,7 @@ Olá, sou Kayllane, sou proativa, comunicativa e gosto do trabalho em equipe poi
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
 
 #### Aprendendo:
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 </div>
 
 
