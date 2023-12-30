@@ -2,7 +2,11 @@
 
 ### 🚀 Sobre mim
 <p> 
-Olá, sou Kayllane, sou proativa, comunicativa e gosto do trabalho em equipe pois acredito que a união faz a força. Desenvolvedora Back End Jr, com 1 ano de experiência, especializado em Java. Trabalhei principalmente no setor de tecnologia financeira, onde fui responsável por acompanhar análise técnica, auxiliar no desenvolvimento de demandas em Java e PL Teste Unitário, acompanhar apoio em demandas de banco de dados, auxiliar nas demais atividades da área. Estou atualmente no 3º período de Análise e Desenvolvimento de Sistemas e possuo certificações em Java - UpStags! (Ada Tech). Minha paixão é me desafiar com novos projetos que me tirem da zona de conforto e  impactar positivamente a vida das pessoas por meio da tecnologia. Fora do trabalho, me interesso por futebol e música. Estou sempre procurando me atualizar sobre tecnologia nos variados setores e busco ser uma ótima profissional de desenvolvimento de software.
+Olá, sou Kayllane, sou proativa, comunicativa e gosto do trabalho em equipe pois acredito que a união faz a força. 
+
+Minha primeira experiência no mercado de trabalho foi em 2019 no INSS, onde estagiei por 1 ano e por lá fui responsável por auxiliar em atividades administrativa, auxiliar na digitalização de documentos e auxiliar na entrega de documentos. Durante esse período, desenvolvi softs skills como o de comunicação, trabalho em equipe e proatividade. Em 2022, fui estagiária de desenvolvimento back-end, atuei por 1 ano com a tecnologia Java. Trabalhei principalmente no setor de tecnologia financeira, onde fui responsável por acompanhar análise técnica, auxiliar no desenvolvimento de demandas em Java e PL Teste Unitário, acompanhar apoio em demandas de banco de dados, auxiliar nas demais atividades da área. 
+
+Estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo certificações em Java - UpStags! (Ada Tech). Minha paixão é me desafiar com novos projetos que me tirem da zona de conforto e  impactar positivamente a vida das pessoas por meio da tecnologia. Fora do trabalho, me interesso por futebol e música. Estou sempre procurando me atualizar sobre tecnologia nos variados setores e busco ser uma ótima profissional de desenvolvimento de software.
 </p>
 </div>
 
