@@ -20,9 +20,11 @@ Estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo certif
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 #### Aprendendo:
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 </div>
 
 
