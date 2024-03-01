@@ -23,7 +23,7 @@ Estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo certif
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
 #### Aprendendo:
-![DevOps](https://img.shields.io/badge/devops-000?style=for-the-badge&logo=devops)
+![Cloud](https://img.shields.io/badge/cloud-000?style=for-the-badge&logo=cloud)
 ![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
 </div>
 
