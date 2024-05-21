@@ -2,29 +2,39 @@
 
 ### 🚀 Sobre mim
 <p> 
-Olá, sou Kayllane, sou proativa, comunicativa e gosto do trabalho em equipe pois acredito que a união faz a força. 
-
-Minha primeira experiência no mercado de trabalho foi em 2019 no INSS, onde estagiei por 1 ano e por lá fui responsável por auxiliar em atividades administrativa, auxiliar na digitalização de documentos e auxiliar na entrega de documentos. Durante esse período, desenvolvi softs skills como o de comunicação, trabalho em equipe e proatividade. Em 2022, fui estagiária de desenvolvimento back-end, atuei por 1 ano com a tecnologia Java. Trabalhei principalmente no setor de tecnologia financeira, onde fui responsável por acompanhar análise técnica, auxiliar no desenvolvimento de demandas em Java e PL Teste Unitário, acompanhar apoio em demandas de banco de dados, auxiliar nas demais atividades da área. 
-
-Estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo certificações em Java - UpStags! (Ada Tech). Minha paixão é me desafiar com novos projetos que me tirem da zona de conforto e  impactar positivamente a vida das pessoas por meio da tecnologia. Fora do trabalho, me interesso por futebol e música. Estou sempre procurando me atualizar sobre tecnologia nos variados setores e busco ser uma ótima profissional de desenvolvimento de software.
+Desenvolvedora de Software Júnior, cursando o 3º período de análise de desenvolvimento de sistemas com 1 ano de experiência em desenvolvimento back-end utlizando Java e SpringBoot. Amo futebol (Mengo), animais e músicas.
 </p>
 </div>
 
 
 <div style="display: inline_block"><br>
 
-### ⚒️ Tecnologias
+### 💻 Tecnologias
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![NodeJS](https://img.shields.io/badge/node.js-000?style=for-the-badge&logo=node.js&logoColor=green)
+![Java](https://img.shields.io/badge/java-000.svg?style=for-the-badge&logo=openjdk&logoColor=%23F7DF1E)
+![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring)
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=005C84)
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-000?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=purple)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
+### ⚒️ Ferramentas
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
 #### Aprendendo:
-![Cloud](https://img.shields.io/badge/cloud-000?style=for-the-badge&logo=cloud)
-![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=sql)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 </div>
 
 
@@ -41,10 +51,10 @@ Estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo certif
 
 
 
-<div style="display: inline_block"><br>
+<div align="center"><br>
   
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayllaneGPina&theme=midnight-purple&show_icons=true&rank_icon=github&card_width=300px) 
-   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KayllaneGPina&layout=compact&theme=midnight-purple&show_icons=true&card_width=400px)
+  <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KayllaneGPina&theme=midnight-purple&show_icons=true&rank_icon=github&card_width=300px) -->
+   ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KayllaneGPina&layout=compact&theme=midnight-purple&show_icons=true&card_width=500px)
    
 </div>
 
