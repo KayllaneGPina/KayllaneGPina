@@ -48,3 +48,5 @@ Estou atualmente cursando Análise e Desenvolvimento de Sistemas e possuo certif
    
 </div>
 
+![Snake animation](https://github.com/KayllaneGPinaKayllaneGPina/blob/output/github-contribution-grid-snake.svg)
+
