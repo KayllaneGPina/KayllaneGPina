@@ -1,11 +1,8 @@
 <div>
 
 ### 🚀 Sobre mim
-<p> 
-Desenvolvedora de Software Júnior, cursando o 3º período de análise de desenvolvimento de sistemas com 1 ano de experiência em desenvolvimento back-end utlizando Java e SpringBoot. Amo futebol (Mengo), animais e músicas.
-</p>
+<p> Desenvolvedora de Software Júnior, com 1 ano de experiência em desenvolvimento back-end utlizando Java e SpringBoot. Amo futebol (Mengo), animais e músicas.</p>
 </div>
-
 
 <div style="display: inline_block"><br>
 
